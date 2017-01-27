@@ -5,8 +5,8 @@ and existing github repositories.
 
 To build:
 
-Clone repo into $GOPATH/src/github.com/drud/prepo
-From the repo's root directory run `go build`
+- Clone repo into $GOPATH/src/github.com/drud/prepo
+- From the repo's root directory run `go build`
 
 To use:
 
